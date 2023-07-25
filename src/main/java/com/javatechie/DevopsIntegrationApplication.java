@@ -11,8 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "Bogem Shivasai";
-		return "Devops Engineer, Quadgen wireless solutions";
+		return "Bogem Shivasai, Devops Engineer, Quadgen wireless solutions";
 	}
 
 	public static void main(String[] args) {
