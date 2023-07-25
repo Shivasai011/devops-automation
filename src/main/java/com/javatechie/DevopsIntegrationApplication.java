@@ -11,7 +11,8 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "Hi Friends Latest Devops Projects Uploaded Daily Based . LiKe & Share this video & also Subscribe";
+		return "Bogem Shivasai";
+		return "Devops Engineer, Quadgen wireless solutions";
 	}
 
 	public static void main(String[] args) {
